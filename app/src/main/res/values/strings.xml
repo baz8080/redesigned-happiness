@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactCleaner</string>
+    <string name="warning">Warning: this may do bad things to your contacts. It didn\'t to mine, but you never know.</string>
+    <string name="permission_granted">Permission was granted</string>
+    <string name="permission_denied">Permission was denied</string>
+    <string name="processing_contacts">Processing contacts</string>
+    <string name="clean_contacts">Clean contacts</string>
+    <string name="done">Done</string>
+</resources>
